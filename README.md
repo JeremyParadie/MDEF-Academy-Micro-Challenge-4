@@ -25,7 +25,7 @@ I'll make a simple web app with the ability to
 ## Flow chart
 ![Pasted image 20220924221406](https://user-images.githubusercontent.com/14352758/192126660-9fd2bb75-bad5-447b-9124-e97f15ad79e6.png)
 
-## Design process and tools
+## Design process tools
 I used the [p5.js web editor](https://editor.p5js.org/jparadie/sketches/gU_qqxFGN) and referenced the [p5.js documentation](https://p5js.org/reference/).
 
 ## Iterations
