@@ -38,7 +38,7 @@ I refactored the mouse interaction code once, moving some code from the `Element
 Everything was pretty straightforward and I didn't have any significant issues. My prior experience with software development was helpful in this regard. 
 
 ## Source code
-The source code is available in this repository. It has been deployed with GitHub Pages, so you can [run it online](https://jeremyparadie.github.io/MDEF-Academy-Micro-Challenge-4/). Alternatively, you can open and run the project in the [p5.js web editor](https://editor.p5js.org/jparadie/sketches/gU_qqxFGN)
+The source code is available in this repository. It has been deployed with GitHub Pages, so you can [run it online](https://jeremyparadie.github.io/MDEF-Academy-Micro-Challenge-4/). Alternatively, you can open and run the project in the [p5.js web editor](https://editor.p5js.org/jparadie/sketches/gU_qqxFGN).
 
 ## How to use it
 1. Follow this link to [run in browser](https://jeremyparadie.github.io/MDEF-Academy-Micro-Challenge-4/).
